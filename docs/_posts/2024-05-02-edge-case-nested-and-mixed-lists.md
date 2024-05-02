@@ -1,21 +1,16 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
-categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
----
+​---
+title : "Test 블로그 포스팅"
+Excerpt : "md 파일 사용해서 Github에 글 써보기. 에디터는 고민중"
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+Categories:
+ - Blog
+tags :
+- [Blog, jekyll,Github,Git]
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
-
-### Ordered -- Unordered -- Ordered
+date : 2024-05-02
+last_modified_at : 2024-05-02
+​---
 
 1. ordered item
 2. ordered item 
@@ -64,3 +59,7 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+---
+
+---
