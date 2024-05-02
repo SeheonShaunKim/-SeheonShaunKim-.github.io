@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaun Kim_GitHub"
+title                    : "ShaunKim Github"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shaun Kim"
-description              : "An amazing website."
+name                     : "Seheon Kim"
+description              : "A Bibliotheca."
 url                      : "https://SeheonShaunKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,13 +113,13 @@ analytics:
 author:
   name             : "Shaun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**SNU Bachelor 22'**"
+  bio              : "I am an **amazing** person."
   location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "rlatpgjs00@snu.ac.kr"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
