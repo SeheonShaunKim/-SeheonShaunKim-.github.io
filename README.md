@@ -1,2 +1,2 @@
-# -SeheonShaunKim-.github.io
+# SeheonShaunKim.github.io
 Biliotheca
