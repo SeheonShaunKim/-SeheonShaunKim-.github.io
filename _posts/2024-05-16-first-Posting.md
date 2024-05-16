@@ -3,7 +3,7 @@ title: Github 첫 Posting
 author: ShaunKim
 description: >-
   Github 초보의 험난한 블로그 작성기
-date: 2024-05-15 12:30:00 +0900
+date: 2024-05-16 12:30:00 +0900
 categories: [Blogging, Tutorial]
 tags: [Posting]
 comments : true
