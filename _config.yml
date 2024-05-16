@@ -111,7 +111,7 @@ comments:
   # The provider options are as follows:
   disqus:
     comments : true
-    shortname: 'vxI0fwQHfA'
+    shortname: 'disqus_vxI0fwQHfA'
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
